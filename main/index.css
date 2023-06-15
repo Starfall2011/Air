@@ -87,21 +87,9 @@ a{
     background-color: rgb(85, 153, 255);
 }
 
-@media screen and (max-width: 650px) { 
-    body{
-        background-color: red;
-    }
-    .content-div-images-img{
-        height: 200px;
-    }
+@media all and (orientation: portrait) {
+h1{
+    size: 40vmin;
+}
 
-    content .content-div {
-        padding: 10px;
-    }
-
-    .content-div-images-img-center{
-        margin-left: 0px;
-        margin-right: 0px;
-    }
- }
-
+}
