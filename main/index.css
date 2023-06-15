@@ -83,13 +83,17 @@ a{
     color: white;
 }
 
+h1{
+    font-size: 90px; color: #ffffff;
+}
+
 .a-div{
     background-color: rgb(85, 153, 255);
 }
 
 @media all and (orientation: portrait) {
 h1{
-    size: 40vmin;
+    size: 5vmin;
 }
 
 }
