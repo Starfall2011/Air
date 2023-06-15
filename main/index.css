@@ -93,7 +93,7 @@ h1{
 
 @media all and (orientation: portrait) {
 h1{
-    size: 5vmin;
+    font-size: 5vmin;
 }
 
 }
